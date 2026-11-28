@@ -1,0 +1,5 @@
+nanum-pen.woff2 — "Nanum Pen Script" (나눔손글씨 펜) 글꼴의 일부 글자만 담은 파일입니다.
+Copyright (c) 2010, NAVER Corporation (https://www.navercorp.com/).
+이 글꼴은 SIL Open Font License, Version 1.1 에 따라 배포됩니다.
+전문: https://openfontlicense.org/open-font-license-official-text/
+출처: https://fonts.google.com/specimen/Nanum+Pen+Script
