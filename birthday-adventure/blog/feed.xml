@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>로로의 생일별 모험</title>
+<link>https://chris8less.github.io/dopedev-legal/birthday-adventure/blog/</link>
+<atom:link href="https://chris8less.github.io/dopedev-legal/birthday-adventure/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<description>평일 저녁 생일, 촛불만 끄고 끝나기 아쉽죠? 거실에서 바로 해 볼 수 있는 생일 이벤트 아이디어와 준비 팁, 로봇 로로가 선물 찾기를 진행하는 앱 &#x27;생일별 모험&#x27; 이야기를 올려요.</description>
+<language>ko</language>
+<lastBuildDate>Sat, 28 Nov 2026 09:30:00 +0900</lastBuildDate>
+<item>
+<title>[개발자 소개] 집에서 생일파티, 부모 준비는 선물 숨기기 하나 — 생일 전날 밤 준비법</title>
+<link>https://chris8less.github.io/dopedev-legal/birthday-adventure/blog/birthday-eve-hide-one-gift.html</link>
+<guid isPermaLink="true">https://chris8less.github.io/dopedev-legal/birthday-adventure/blog/birthday-eve-hide-one-gift.html</guid>
+<pubDate>Sat, 28 Nov 2026 09:30:00 +0900</pubDate>
+<category>생일 이벤트 아이디어</category>
+<description>집에서 생일파티를 할 때 풍선·현수막·쪽지 대신 선물 하나만 숨기는 생일 전날 밤 준비법. 선물 숨기기 좋은 곳 5군데와 피할 곳, 당일 저녁 진행 방법을 &#x27;생일별 모험&#x27; 개발사가 정리했어요.</description>
+</item>
+<item>
+<title>[개발자 소개] 7살 생일 이벤트, 평일 저녁 30분 안팎 — 로봇 로로와 선물 찾기</title>
+<link>https://chris8less.github.io/dopedev-legal/birthday-adventure/blog/weeknight-7th-birthday.html</link>
+<guid isPermaLink="true">https://chris8less.github.io/dopedev-legal/birthday-adventure/blog/weeknight-7th-birthday.html</guid>
+<pubDate>Sat, 28 Nov 2026 09:00:00 +0900</pubDate>
+<category>생일 이벤트 아이디어</category>
+<description>평일 저녁 7살 생일, 촛불만 끄고 끝나기 아쉬울 때. 부모님은 선물 하나만 숨기고, 로봇 로로가 미션 6개로 30분 안팎의 선물 찾기를 진행하는 앱 &#x27;생일별 모험&#x27;을 만든 개발사가 직접 소개해요.</description>
+</item>
+</channel>
+</rss>
